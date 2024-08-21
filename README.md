@@ -1,5 +1,5 @@
 # Task Tracker CLI
-Project repos for https://roadmap.sh/projects/task-tracker
+Project repos for [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 
 This is simple task tracker for CLI.
 
